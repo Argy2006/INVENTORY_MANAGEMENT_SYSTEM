@@ -4,22 +4,22 @@ Student Information :
 Name : ARYAN Roll No. : 2401350001 University: K.R. Mangalam University Course: Btech CSE (FULL STACK DEVELOPMENT) Subject : Data Structure And Algorothms LAB Course Code: ENCS253
 
 # Grocery Store Inventory System
-Project Overview
+# Project Overview
 This project is a menu-driven C++ program that simulates an Inventory Management System for a grocery store.
 It uses array-based data structures to store item details and implements operations such as insertion, deletion, search, display, row/column ordering, and sparse representation.
 
 This project is part of Lab Assignment 1 (Data Structures - Arrays & Complexity Analysis).
 
-Features
+# Features
 Insert Item – Add a new item record (ID, Name, Quantity, Price).
 Delete Item – Remove an item using its unique ID.
 Search Item – Search for an item by ID or Name.
 Display All Items – Show all items in the inventory.
 Row-Major & Column-Major Ordering – Manage Price and Quantity tables.
 Sparse Representation – Display items with stock less than or equal to a user-defined threshold.
-=== sample run code ===
+# === sample run code ===
 
-====== Grocery Store Inventory System ======
+# ====== Grocery Store Inventory System ======
 
 Insert Item
 Delete Item
